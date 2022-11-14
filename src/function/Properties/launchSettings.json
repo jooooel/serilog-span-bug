@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "serilog_span_bug": {
+    "function": {
       "commandName": "Project",
       "commandLineArgs": "--port 7120",
       "launchBrowser": false

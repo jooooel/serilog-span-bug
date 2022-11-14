@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console", "src\console\console.csproj", "{18FA98E0-53DB-4E9A-8705-7FB6F480BE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "function", "src\function\function.csproj", "{8A839132-2F7E-46EF-ABF3-AC8D555C488A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FA98E0-53DB-4E9A-8705-7FB6F480BE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FA98E0-53DB-4E9A-8705-7FB6F480BE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FA98E0-53DB-4E9A-8705-7FB6F480BE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FA98E0-53DB-4E9A-8705-7FB6F480BE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A839132-2F7E-46EF-ABF3-AC8D555C488A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A839132-2F7E-46EF-ABF3-AC8D555C488A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A839132-2F7E-46EF-ABF3-AC8D555C488A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A839132-2F7E-46EF-ABF3-AC8D555C488A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
